@@ -1,0 +1,16 @@
+C:\Users\Manuel\source\repos\CRUD\Forms\bin\Debug\Forms.exe.config
+C:\Users\Manuel\source\repos\CRUD\Forms\bin\Debug\Forms.exe
+C:\Users\Manuel\source\repos\CRUD\Forms\bin\Debug\Forms.pdb
+C:\Users\Manuel\source\repos\CRUD\Forms\obj\Debug\Forms.csprojAssemblyReference.cache
+C:\Users\Manuel\source\repos\CRUD\Forms\obj\Debug\Forms.Form1.resources
+C:\Users\Manuel\source\repos\CRUD\Forms\obj\Debug\Forms.Properties.Resources.resources
+C:\Users\Manuel\source\repos\CRUD\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\Manuel\source\repos\CRUD\Forms\obj\Debug\Forms.exe
+C:\Users\Manuel\source\repos\CRUD\Forms\obj\Debug\Forms.pdb
+C:\Users\Manuel\source\repos\CRUD\Forms\bin\Debug\Negocio.dll
+C:\Users\Manuel\source\repos\CRUD\Forms\bin\Debug\Negocio.pdb
+C:\Users\Manuel\source\repos\CRUD\Forms\obj\Debug\Forms.csproj.CopyComplete
+C:\Users\Manuel\source\repos\CRUD\Forms\bin\Debug\Datos.dll
+C:\Users\Manuel\source\repos\CRUD\Forms\bin\Debug\Datos.pdb
+C:\Users\Manuel\source\repos\CRUD\Forms\bin\Debug\Clases.dll
+C:\Users\Manuel\source\repos\CRUD\Forms\bin\Debug\Clases.pdb

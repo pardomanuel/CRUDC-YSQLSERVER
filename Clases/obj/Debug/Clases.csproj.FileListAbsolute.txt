@@ -1,0 +1,5 @@
+C:\Users\Manuel\source\repos\CRUD\Clases\bin\Debug\Clases.dll
+C:\Users\Manuel\source\repos\CRUD\Clases\bin\Debug\Clases.pdb
+C:\Users\Manuel\source\repos\CRUD\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+C:\Users\Manuel\source\repos\CRUD\Clases\obj\Debug\Clases.dll
+C:\Users\Manuel\source\repos\CRUD\Clases\obj\Debug\Clases.pdb

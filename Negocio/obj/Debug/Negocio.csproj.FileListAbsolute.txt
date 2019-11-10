@@ -1,0 +1,10 @@
+C:\Users\Manuel\source\repos\CRUD\Negocio\bin\Debug\Negocio.dll
+C:\Users\Manuel\source\repos\CRUD\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Manuel\source\repos\CRUD\Negocio\bin\Debug\Datos.dll
+C:\Users\Manuel\source\repos\CRUD\Negocio\bin\Debug\Datos.pdb
+C:\Users\Manuel\source\repos\CRUD\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Manuel\source\repos\CRUD\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Manuel\source\repos\CRUD\Negocio\obj\Debug\Negocio.dll
+C:\Users\Manuel\source\repos\CRUD\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Manuel\source\repos\CRUD\Negocio\bin\Debug\Clases.dll
+C:\Users\Manuel\source\repos\CRUD\Negocio\bin\Debug\Clases.pdb

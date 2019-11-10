@@ -1,0 +1,8 @@
+C:\Users\Manuel\source\repos\CRUD\Datos\bin\Debug\Datos.dll
+C:\Users\Manuel\source\repos\CRUD\Datos\bin\Debug\Datos.pdb
+C:\Users\Manuel\source\repos\CRUD\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\Manuel\source\repos\CRUD\Datos\obj\Debug\Datos.dll
+C:\Users\Manuel\source\repos\CRUD\Datos\obj\Debug\Datos.pdb
+C:\Users\Manuel\source\repos\CRUD\Datos\bin\Debug\Clases.dll
+C:\Users\Manuel\source\repos\CRUD\Datos\bin\Debug\Clases.pdb
+C:\Users\Manuel\source\repos\CRUD\Datos\obj\Debug\Datos.csproj.CopyComplete
